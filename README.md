@@ -2,6 +2,7 @@
 
 ## PT
 Aplicação mobile (Android) para consultar o saldo e os movimentos dos [Cartões Dá](https://cartoesda.com/).
+Este repositório serve apenas para fazer download da APP.
 
 ### Atenção
 * Esta APP **NÃO** é oficial.
@@ -11,6 +12,7 @@ Bugs/Informação -> anon.lang13@gmail.com
 
 ## EN
 Mobile APP (Android) to check cards and their statements from [Cartões Dá](https://cartoesda.com/).
+This repo is only used to download the APP.
 
 ### Attention
 * This APP is **NOT** official.
