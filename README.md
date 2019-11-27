@@ -1,5 +1,7 @@
 # Cartões Dá Android
 
+[Download APP](https://github.com/BernaLang/cart-es-da-android/releases)
+
 ## PT
 Aplicação mobile (Android) para consultar o saldo e os movimentos dos [Cartões Dá](https://cartoesda.com/).
 
@@ -20,6 +22,6 @@ This repo is only used to download the APP.
 ### Attention
 * This APP is **NOT** official.
 * Every saved data used by the APP remains on your device, nothing is sent to third party servers.
-* I'm not responsible for problems
+* I'm not responsible for problems with your Cartão Dá account, use at your own risk.
 
 Bugs/Info -> anon.lang13@gmail.com
